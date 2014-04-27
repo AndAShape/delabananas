@@ -1,10 +1,7 @@
-<html>
-<head>
-<title>Delabananas</title>
-<style>
 body {
 	background-color: #ffff33;
 }
+
 #lol {
 	width: 200px;
 	font-size: 60px;
@@ -21,11 +18,3 @@ body {
 	-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.08);
 	box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.08);
 }
-</style>
-</head>
-<body>
-<div id="lol">
-LOL
-</div>
-</body>
-</html>

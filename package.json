@@ -1,0 +1,11 @@
+ 
+	{
+	  "name": "delabananas",
+	  "main": "server.js",
+	  "dependencies": {
+	    "express": "latest",
+	    "mongoose": "latest",
+	    "mime": "latest",
+	    "typescript-require": "latest"
+	  }
+	}
