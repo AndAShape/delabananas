@@ -1,5 +1,5 @@
 /// <reference path="node_modules/typescript-require/typings/node.d.ts" />
-//// hello 123
+//// hello 123 world123
 var http  = require('http');
 var fs    = require('fs');
 var path  = require('path');
